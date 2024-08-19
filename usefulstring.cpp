@@ -44,5 +44,11 @@ int main ()
     std::cout << "Your username is now " << name ;
 */
 
-    
+// how find space or character
+//std:: count << name.find(' ');
+
+//erase charc of string
+
+name.erase (0,3);
+
 }
